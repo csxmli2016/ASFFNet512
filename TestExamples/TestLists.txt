@@ -1,0 +1,9 @@
+./TestExamples/LQCrop/i1.png	./TestExamples/HQReferences/Obama	./TestExamples/HQReferences_Landmarks/Obama
+./TestExamples/LQCrop/i2.png	./TestExamples/HQReferences/Obama	./TestExamples/HQReferences_Landmarks/Obama
+./TestExamples/LQCrop/i3.png	./TestExamples/HQReferences/Obama	./TestExamples/HQReferences_Landmarks/Obama
+./TestExamples/LQCrop/i4.png	./TestExamples/HQReferences/Obama	./TestExamples/HQReferences_Landmarks/Obama
+./TestExamples/LQCrop/i5.png	./TestExamples/HQReferences/Obama	./TestExamples/HQReferences_Landmarks/Obama
+./TestExamples/LQCrop/i6.png	./TestExamples/HQReferences/Obama	./TestExamples/HQReferences_Landmarks/Obama
+./TestExamples/LQCrop/i7.png	./TestExamples/HQReferences/Obama	./TestExamples/HQReferences_Landmarks/Obama
+./TestExamples/LQCrop/i8.png	./TestExamples/HQReferences/Obama	./TestExamples/HQReferences_Landmarks/Obama
+./TestExamples/LQCrop/i9.png	./TestExamples/HQReferences/Obama	./TestExamples/HQReferences_Landmarks/Obama
