@@ -57,13 +57,11 @@ CUDA_VISIBLE_DEVICES=0 python main_test.py -s ./TestExamples/TestLists.txt -d ./
   <img src='./GithubImgs/i3_max.png'>
   <img src='./GithubImgs/i3_other.png'>
   <img src='./GithubImgs/i3_n100.png'>
-  <img src='./GithubImgs/i3_f0.png'>
 
   <img src='./GithubImgs/i5_min.png'>
   <img src='./GithubImgs/i5_max.png'>
   <img src='./GithubImgs/i5_other.png'>
   <img src='./GithubImgs/i5_n100.png'>
-  <img src='./GithubImgs/i5_f0.png'>
 </div>
 
 >The first row for each group is restored with our selected optimal reference which is more consistent with the low-quality input (see poses and mouth open or closed). With our optimal reference, results are more photo-realistic and consistent with the identity (see the identity-belonging details in red boxes).
