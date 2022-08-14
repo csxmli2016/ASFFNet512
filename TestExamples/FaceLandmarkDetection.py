@@ -31,7 +31,7 @@ Please refer to https://github.com/1adrianb/face-alignment for more details
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('-s', '--ids_path', type=str, default='./HQReferences/IdImgs', help='file path that contains many identities')
+    parser.add_argument('-s', '--ids_path', type=str, default='./HQReferences', help='file path that contains many identities')
     parser.add_argument('--check', action='store_true', help='save the face images with landmarks shown on them to check the performance')
     
     args = parser.parse_args()
