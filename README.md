@@ -1,7 +1,7 @@
 ## [Enhanced Blind Face Restoration with Multi-Exemplar Images and Adaptive Spatial Feature Fusion (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhanced_Blind_Face_Restoration_With_Multi-Exemplar_Images_and_Adaptive_Spatial_CVPR_2020_paper.pdf)
 
-**<h4>This is a re-implemented version of our ASFFNet on 512*512 images by using:</h4>**
-- CelebRef-HQ dataset from our [DMDNet](https://github.com/csxmli2016/DMDNet)
+**<h4>This is a re-implemented version of our ASFFNet by using:</h4>**
+- 512*512 images from CelebRef-HQ dataset of our [DMDNet](https://github.com/csxmli2016/DMDNet)
 - Degradation model from our [ReDegNet](https://github.com/csxmli2016/ReDegNet)
 
 <img src="./GithubImgs/pipeline.gif">
