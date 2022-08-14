@@ -80,7 +80,7 @@ year = {2020}
 
 <details open><summary><h3>Our blind face restoration related works:</h3></summary>
   
-(1) Single Reference based Specific Restoration ([GFRNet](https://github.com/csxmli2016/GFRNet))
+(1) **Single** Reference based **Specific** Restoration ([GFRNet](https://github.com/csxmli2016/GFRNet))
 
 ```
 @InProceedings{Li_2018_ECCV,
@@ -91,7 +91,7 @@ year = {2018}
 }
 ```
 
-(2) Multiple Exemplar based Specific Restoration (this work [ASFFNet](https://github.com/csxmli2016/ASFFNet512))
+(2) **Multiple Exemplar** based **Specific** Restoration (this work [ASFFNet](https://github.com/csxmli2016/ASFFNet512))
 
 ```
 @InProceedings{Li_2020_CVPR,
@@ -102,7 +102,7 @@ year = {2020}
 }
 ```
 
-(3) Component Dictionary based Generic Restoration ([DFDNet](https://github.com/csxmli2016/DFDNet))
+(3) Component Dictionary based **Generic** Restoration ([DFDNet](https://github.com/csxmli2016/DFDNet))
 
 ```
 @InProceedings{Li_2020_ECCV,
@@ -113,7 +113,7 @@ year = {2020}
 }
 ```
 
-(4) Combination of Generic and Specific Restoration ([DMDNet](https://github.com/csxmli2016/DMDNet))
+(4) Combination of **Generic and Specific** Restoration ([DMDNet](https://github.com/csxmli2016/DMDNet))
 
 ```
 Coming soon...
