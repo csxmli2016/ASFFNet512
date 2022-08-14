@@ -65,6 +65,8 @@ CUDA_VISIBLE_DEVICES=0 python main_test.py -s ./TestExamples/TestLists.txt -d ./
   <img src='./GithubImgs/i5_f0.png'>
 </div>
 
+>For the two groups of test images, middle images on their first rows are our selected optimal reference (see poses and mouth open or closed).
+
 ## Citation of this work
 
 ```
