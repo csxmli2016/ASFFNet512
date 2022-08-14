@@ -1,8 +1,16 @@
 ## [Enhanced Blind Face Restoration with Multi-Exemplar Images and Adaptive Spatial Feature Fusion (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhanced_Blind_Face_Restoration_With_Multi-Exemplar_Images_and_Adaptive_Spatial_CVPR_2020_paper.pdf)
 
-This is a reimplemented version of our ASFFNet on 512*512 images by using CelebRef-HQ dataset from our [DMDNet](https://github.com/csxmli2016/DMDNet). 
+**<h4>This is a re-implemented version of our ASFFNet on 512*512 images by using:</h4>**
+- CelebRef-HQ dataset from our [DMDNet](https://github.com/csxmli2016/DMDNet)
+- Degradation model from our [ReDegNet](https://github.com/csxmli2016/ReDegNet)
 
 <img src="https://github.com/csxmli2016/ASFFNet/blob/master/Imgs/ASFFNet.png">
+
+## Pre-train Models
+Downloade from the following url and put them into ./checkpoints/
+- [BaiduNetDisk](https://pan.baidu.com/s/1hGT0FgEwrzFvJUzs4CdLMA?pwd=iufd)
+or
+- [GoogleDrive](https://drive.google.com/file/d/13kjKkS6SQjiVYSxD4HfUhIiYv_oNGHsD/view?usp=sharing)
 
 ## Testing
 ```bash
@@ -70,7 +78,8 @@ year = {2020}
 }
 ```
 
-<details open><summary>Our previous blind face restoration works:</summary>
+<details open><summary><h3>Our previous blind face restoration works:</h3></summary>
+  
 (1) Single Reference based Specific Restoration ([GFRNet](https://github.com/csxmli2016/GFRNet))
 
 ```
@@ -108,6 +117,17 @@ year = {2020}
 
 ```
 Coming soon...
+```
+  
+(5) Learning Real-world Degradation Model from Face Images ([ReDegNet](https://github.com/csxmli2016/ReDegNet))
+
+```
+@InProceedings{Li_2022_ReDegNet,
+author = {Li, Xiaoming and Chen, Chaofeng and Lin, Xianhui and Zuo, Wangmeng and Zhang, Lei},
+title = {From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution},
+booktitle = {ECCV},
+year = {2022}
+}
 ```
 </details>
 
