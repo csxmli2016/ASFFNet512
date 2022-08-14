@@ -36,6 +36,7 @@ CUDA_VISIBLE_DEVICES=0 python AlignAsFFHQ.py -s ./LQRaw -d ./LQCrop --no_padding
 cd TestExamples
 CUDA_VISIBLE_DEVICES=0 python FaceLandmarkDetection.py -s ./HQReferences
 ```
+>You can also add ```--check``` to show the face images labeled with the detected the landmarks.
 
 #### 4) Preparing the TestLists.txt (see ./TestExamples/TestLists.txt) with the following format
 ```bash
