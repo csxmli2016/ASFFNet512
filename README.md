@@ -77,7 +77,7 @@ year = {2020}
 }
 ```
 
-<details open><summary><h3>Our blind face restoration related works:</h3></summary>
+<details open><summary><h2>Our blind face restoration related works:</h2></summary>
   
 (1) **Single** Reference based **Specific** Restoration ([GFRNet](https://github.com/csxmli2016/GFRNet))
 
