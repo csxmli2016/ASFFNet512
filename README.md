@@ -114,7 +114,7 @@ year = {2020}
 }
 ```
 
-(4) Combination of **Generic and Specific** Restoration ([DMDNet](https://github.com/csxmli2016/DMDNet))
+(4) Dual Memory based **Generic and Specific** Restoration ([DMDNet](https://github.com/csxmli2016/DMDNet))
 
 ```
 Coming soon...
