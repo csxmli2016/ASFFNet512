@@ -50,7 +50,7 @@ CUDA_VISIBLE_DEVICES=0 python main_test.py -s ./TestExamples/TestLists.txt -d ./
 
 >-s and -d represent the source and save pathes, respectively.
 
-## Restoration examples with different references on real-world low-quality images
+## Examples restored with different references on real-world low-quality images
 <div style='font-size:0'>
   <img src='./GithubImgs/i3_min.png'>
   <img src='./GithubImgs/i3_max.png'>
