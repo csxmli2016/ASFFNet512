@@ -4,7 +4,7 @@
 - CelebRef-HQ dataset from our [DMDNet](https://github.com/csxmli2016/DMDNet)
 - Degradation model from our [ReDegNet](https://github.com/csxmli2016/ReDegNet)
 
-<img src="https://github.com/csxmli2016/ASFFNet/blob/master/Imgs/ASFFNet.png">
+<img src="./GithubImgs/pipeline.gif">
 
 ## Pre-train Models
 Download from the following url and put it into ./checkpoints/
