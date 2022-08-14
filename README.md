@@ -16,6 +16,7 @@ or
 ```bash
 CUDA_VISIBLE_DEVICES=0 python main_test.py -s ./TestExamples/TestLists.txt -d ./TestExamples/TestResults
 ```
+> You may install the face_alignment package by ```pip install face-alignment``` or ```conda install -c 1adrianb face_alignment```
 
 ## How to prepare the test data
 
