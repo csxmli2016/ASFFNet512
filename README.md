@@ -7,7 +7,7 @@
 <img src="https://github.com/csxmli2016/ASFFNet/blob/master/Imgs/ASFFNet.png">
 
 ## Pre-train Models
-Downloade from the following url and put them into ./checkpoints/
+Download from the following url and put it into ./checkpoints/
 - [BaiduNetDisk](https://pan.baidu.com/s/1hGT0FgEwrzFvJUzs4CdLMA?pwd=iufd)
 or
 - [GoogleDrive](https://drive.google.com/file/d/13kjKkS6SQjiVYSxD4HfUhIiYv_oNGHsD/view?usp=sharing)
