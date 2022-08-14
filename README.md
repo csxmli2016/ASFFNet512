@@ -120,7 +120,7 @@ year = {2020}
 Coming soon...
 ```
   
-(5) Learning Real-world Degradation Model from Face Images ([ReDegNet](https://github.com/csxmli2016/ReDegNet))
+(5) Learning Real-world Degradation from Face Images ([ReDegNet](https://github.com/csxmli2016/ReDegNet))
 
 ```
 @InProceedings{Li_2022_ReDegNet,
