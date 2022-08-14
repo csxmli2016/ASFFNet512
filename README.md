@@ -48,10 +48,7 @@ CUDA_VISIBLE_DEVICES=0 python FaceLandmarkDetection.py -s ./HQReferences
 CUDA_VISIBLE_DEVICES=0 python main_test.py -s ./TestExamples/TestLists.txt -d ./TestExamples/TestResults
 ```
 
-```
--s # source path
--d # save path
-```
+>-s and -d represent the source and save pathes, respectively.
 
 ## Some restoration examples with different references on real low-quality images
 <div style='font-size:0'>
