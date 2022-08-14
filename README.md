@@ -37,7 +37,7 @@ CUDA_VISIBLE_DEVICES=0 python AlignAsFFHQ.py -s ./LQRaw -d ./LQCrop --no_padding
 cd TestExamples
 CUDA_VISIBLE_DEVICES=0 python FaceLandmarkDetection.py -s ./HQReferences
 ```
->You can also add ```--check``` to show the face images labeled with the detected the landmarks.
+>You can also add ```--check``` to show the face images labeled with the detected landmarks.
 
 #### 4) Preparing the TestLists.txt (see ./TestExamples/TestLists.txt) with the following format
 ```bash
@@ -66,7 +66,7 @@ CUDA_VISIBLE_DEVICES=0 python main_test.py -s ./TestExamples/TestLists.txt -d ./
   <img src='./GithubImgs/i5_f0.png'>
 </div>
 
->The first rows for the two groups are restored with our selected optimal reference which is more consistent with the low-quality input (see poses and mouth open or closed). With our optimal reference, results are more photo-realistic and consistent with the identity (see the identity-belonging details labeled with red boxes).
+>The first row for each group is restored with our selected optimal reference which is more consistent with the low-quality input (see poses and mouth open or closed). With our optimal reference, results are more photo-realistic and consistent with the identity (see the identity-belonging details in red boxes).
 
 ## Citation of this work
 
