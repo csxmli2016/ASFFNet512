@@ -6,6 +6,11 @@
 
 <img src="./GithubImgs/pipeline.gif">
 
+## Prerequisites (I use python 3.8)
+```shell
+pip install -r requirements.txt
+```
+
 ## Pre-train Models
 Download from the following url and put it into ./checkpoints/
 - [BaiduNetDisk](https://pan.baidu.com/s/1hGT0FgEwrzFvJUzs4CdLMA?pwd=iufd)
