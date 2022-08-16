@@ -2,4 +2,4 @@ torch>=1.7
 torchvision
 numpy
 opencv-python
-face_alignment
+face-alignment
