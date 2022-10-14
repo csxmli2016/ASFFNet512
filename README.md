@@ -84,7 +84,7 @@ year = {2020}
 }
 ```
 
-<details open><summary><h2>Our blind face restoration related works:</h2></summary>
+<details open><summary><h2>Our other blind face restoration related works:</h2></summary>
   
 (1) **Single** Reference based **Specific** Restoration ([GFRNet](https://github.com/csxmli2016/GFRNet))
 
@@ -122,7 +122,12 @@ year = {2020}
 (4) Dual Memory based **Generic and Specific** Restoration ([DMDNet](https://github.com/csxmli2016/DMDNet))
 
 ```
-Coming soon...
+@article{li2022learning,
+title = {Learning Dual Memory Dictionaries for Blind Face Restoration},
+author = {Li, Xiaoming and Zhang, Shiguang and Zhou, Shangchen and Zhang, Lei and Zuo, Wangmeng},
+journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+year = {2022}
+}
 ```
   
 (5) Learning Real-world Degradation from Face Images ([ReDegNet](https://github.com/csxmli2016/ReDegNet))
